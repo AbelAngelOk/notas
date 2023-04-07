@@ -8,7 +8,7 @@ En general, un municipio en Argentina se compone de los siguientes órganos y es
 
 1. **Intendente:** Es el jefe del municipio y es elegido por voto popular cada cuatro años. Su función principal es la de dirigir la administración del municipio.
 
-2. **Concejo Deliberante:** Es el órgano legislativo del municipio y está compuesto por concejales que son elegidos por voto popular cada cuatro años. Su función principal es la de dictar ordenanzas y resolver sobre los asuntos que le competen al municipio.
+2. **Concejo Deliberante:** Es el órgano legislativo del municipio y está compuesto por 24 concejales que son elegidos por voto popular cada cuatro años. Su función principal es la de dictar ordenanzas y resolver sobre los asuntos que le competen al municipio.
 
 3. **Secretarías y áreas de gobierno:** Son las dependencias encargadas de gestionar las políticas públicas del municipio en diferentes áreas, como por ejemplo, serviios públicos, obras públicas, educación, cultura, deportes, seguridad, etc.
 
@@ -16,7 +16,41 @@ En general, un municipio en Argentina se compone de los siguientes órganos y es
 
 5. **Entidades descentralizadas:** Pueden existir entidades que dependen del municipio y que tienen como función brindar servicios específicos a la comunidad, como hospitales, escuelas, centros culturales, entre otros.
 
+6. **La Defensoría del Pueblo** Es el servicio de atencion al publico del municipio. su proposito es atender las quejas y reclamos de los vecinos; investigar situaciones de vulneración de derechos y dictar recomendaciones y soluciones; promover la participación ciudadana en la gestión municipal; y brindar información y asesoramiento gratuito a los vecinos sobre cuestiones legales y de interés general.
+
 En resumen, un municipio en Argentina está compuesto por el Intendente, el Concejo Deliberante, las Secretarías y áreas de gobierno, el Tribunal de Cuentas y posiblemente entidades descentralizadas dependiendo de cada provincia.
+
+## CONCEJO DELIBERANTE
+
+## ¿Como esta compuesto el concejo Deliberante?
+
+presidente del HCD: Baez, Fabio Ruben.
+el vicepresidente 1ro: D'angelo Campos, Federico.
+el vicepresidente 2do: Virgilio, Elisabet Laura.
+secretario legislativo Llanos, Edith.
+secretario administrativo: Engel, Nicolas.
+
+Frente de todos: 13 integrantes
+Juntos: 10 integrantes
+compromiso con quilmes: 1 integrante.
+
+## Sobre el consejo deliberante
+
+El concejo deliberante esta conformado por 24 concejales elegidos a traves de voto popular. Su funcionamiento está regulado por la **Ley Orgánica Municipal** de la Provincia de Buenos Aires y puede adoptar las siguientes disposiciones:
+- **ordenanzas** se crea una regla, ley, promulgacion de alcance municipal.
+- **decreto** rechazo o adopcion de medidas sobre solicitudes particulares.
+- **resolucion** expresa la opinion del HCD sobre algun tema.
+- **comunicacion** contestar, recomendar, pedir o exponer algo.
+- **pedidos de informe** solicita informes o experientes al departamento ejecutivo
+- 
+El consejo deliberante tiene cinco figuras principales: el presidente del HCD, el vicepresidente 1ro, el vicepresidente 2do, el secretario legislativo y el secretario administrativo.
+
+## Tipos de Sesiones del consejo deliberante
+- **Preparatorias:** Es la fecha fijada por la Junta Electoral, para elegir nuevas autoridades del Cuerpo.
+- **Ordinarias:** Son las realizadas dentro del período electivo del 1° de Abril al 30 de Noviembre de cada año.
+- **De prórroga:** el Concejo podrá prorrogar las Sesiones Ordinarias por el término de treinta (30) días.
+- **Especiales:** son las que determina el Cuerpo dentro del período de Sesiones Ordinarias y de prórroga y las que deberá realizar en el mes de Marzo.
+- **Extraordinarias:** El Concejo podrá ser convocado por el Intendente a sesiones extraordinarias siempre que un asunto de interés Público y Urgente lo exige.
 
 ## ¿Que tareas realiza un concejo deliberante municipal?
 
@@ -158,6 +192,19 @@ El Concejo Deliberante de Quilmes está compuesto por un total de 24 concejales,
 * 3 concejales correspondientes al partido político que haya obtenido la tercera mayor cantidad de votos.
 * 
 El Concejo Deliberante es presidido por un presidente, que es elegido de entre los concejales por sus pares. Además, cuenta con una Secretaría Legislativa, encargada de la elaboración de los proyectos de ordenanza y de la documentación relacionada con las sesiones del Concejo.
+
+## comisiones en el HCD
+
+Dentro del honorable consejo deliberante existen distintas comisiones, las comiciones actuales 2019-2023 son:
+- MUJERES, GÉNEROS Y DIVERSIDADES
+- PRESUPUESTO, IMPUESTO Y HACIENDA.
+- OBRAS Y SERVICIOS PUBLICOS.
+- TRANSPORTE Y TRANSITO.
+- SALUD, HIGIENE, ACCION SOCIAL TIERRAS Y VIVIENDAS.
+- PRODUCCION, INDUSTRIA, COMERCIO Y TRABAJO.
+- CULTURA, FOMENTO, ECOLOGIA Y MEDIO AMBIENTE.
+- SEGURIDAD CIUDADANA Y DERECHOS HUMANOS.
+
 
 ## un municipio tiene la capacidad de aplicar un sistema de educacion de bouchers
 
